@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/111879681/186162004-34c21f80-9f6c-43d8-849b-bd378c0d1ba7.png)
+https://fr.linkedin.com/in/victoria-manon
+
 <!--
 **victoria-manon/victoria-manon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
